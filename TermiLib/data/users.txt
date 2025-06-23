@@ -1,0 +1,4 @@
+1,admin,admin,Administrator,25,admin@termilib.com,ADMIN
+3,ali,pass,Ali Khan,17,ali@gmail.com,STUDENT
+4,shandana,pass,Shandana,21,shandana@example.com,STUDENT
+5,talha,pass,Talha Sultan,18,talha@gmail.com,STUDENT
